@@ -25,7 +25,7 @@ const Footer = () => {
       </div>
 
       <div>
-        <a className='font-semibold' href="#">Made By JAMY</a>
+        <a className='font-semibold' href="#">Made By Lean</a>
       </div>
     </footer>
   );

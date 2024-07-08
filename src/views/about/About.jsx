@@ -13,7 +13,7 @@ const About = () => {
           <div className="flex flex-col gap-4">
             <h3 className="font-semibold text-emerald-400">About Us</h3>
             <p>
-              Welcome to JamiCommerce! we are passionate about technology and
+              Welcome to eCommerce! we are passionate about technology and
               committed to providing our customers with the best shopping
               experience for electronic and tech products. We take pride in
               being your trusted destination for all your tech needs.

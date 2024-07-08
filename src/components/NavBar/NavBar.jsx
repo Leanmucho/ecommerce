@@ -28,7 +28,7 @@ const NavBar = ({
   return (
     <header>
       <span className={`${styles.logo} flex justify-start items-center font-semibold text-2xl text-emerald-400`}>
-        JamyCommerce
+        eCommerce
       </span>
 
       <div className="flex gap-7 justify-center items-center font-semibold">
